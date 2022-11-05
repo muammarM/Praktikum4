@@ -15,7 +15,7 @@
 
 2. selanjutnya kita buka file struktur-kondisi > latihan1.py. Dan tuliskan codingan seperti di bawah ini:
 
-![image](img/lat1.JPG)
+![image](img/lat1.new.JPG)
 
 jika sudah silahkan run codingan tersebut akan menghasilkan output seperti dibawah ini:
 
